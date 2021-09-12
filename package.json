@@ -1,0 +1,11 @@
+{
+  "name": "gcp-functions-pub-sub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sostenesg7/gcp-functions-pub-sub",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/pubsub": "2.17.0",
+    "@google-cloud/translate": "6.2.7"
+  }
+}
