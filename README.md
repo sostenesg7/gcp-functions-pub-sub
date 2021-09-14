@@ -1,2 +1,2 @@
 # gcp-functions-pub-sub
-Google Gloud Functions and Pub-sub integration
+Google Gloud Functions, PubSub and Google SQL (mysql) integration
